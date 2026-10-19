@@ -1,30 +1,134 @@
-Real Estate Sales Dashboard
+🏡 Real Estate Sales Dashboard | Power BI
 
-Project Overview
+📌 Project Overview
 
-This project presents a Real Estate Sales Dashboard created using Microsoft Power BI.
+This project presents a Real Estate Sales Dashboard created using Microsoft Power BI to analyze property sales and identify key business insights.
 
-Key Insights
+🎯 Objectives
 
-- Total Sales
-- Total Transactions
-- Properties Sold
-- Customer Count
-- Monthly Sales Trend
-- Property Type Analysis
-- Agent Performance
-- City-Wise Sales
+- Analyze total property sales.
+- Track sold properties.
+- Compare sales performance across categories.
+- Visualize important sales trends and insights.
 
-Tools Used
+🛠️ Tools & Technologies
 
 - Microsoft Power BI
+- Power Query
 - Data Visualization
 - Data Analysis
 
-Dashboard Preview
+📊 Dashboard Features
 
-"Real Estate Sales Dashboard" (dashboard.png)
+- KPI Cards for key metrics
+- Sales analysis using charts
+- Property sales comparison
+- Interactive visualizations
+- Easy-to-understand sales insights
 
-Objective
+💡 Key Learnings
 
-To analyze real estate sales performance and understand sales trends, property types, agent performance, and city-wise sales.
+- Data cleaning and transformation
+- Creating charts and visualizations
+- Designing an interactive dashboard
+- Analyzing real estate sales data
+
+🖼️ Dashboard Preview
+
+Add your Power BI dashboard screenshot here.
+
+👨‍💻 Author
+
+Sarthak Kale
+
+Aspiring Data Analyst 
+🏡 Real Estate Sales Dashboard | Power BI
+
+📌 Project Overview
+
+This project presents a Real Estate Sales Dashboard created using Microsoft Power BI to analyze property sales and identify key business insights.
+
+🎯 Objectives
+
+- Analyze total property sales.
+- Track sold properties.
+- Compare sales performance across categories.
+- Visualize important sales trends and insights.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- Data Visualization
+- Data Analysis
+
+📊 Dashboard Features
+
+- KPI Cards for key metrics
+- Sales analysis using charts
+- Property sales comparison
+- Interactive visualizations
+- Easy-to-understand sales insights
+
+💡 Key Learnings
+
+- Data cleaning and transformation
+- Creating charts and visualizations
+- Designing an interactive dashboard
+- Analyzing real estate sales data
+
+🖼️ Dashboard Preview
+
+Add your Power BI dashboard screenshot here.
+
+👨‍💻 Author
+
+Sarthak Kale
+
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
+🏡 Real Estate Sales Dashboard | Power BI
+
+📌 Project Overview
+
+This project presents a Real Estate Sales Dashboard created using Microsoft Power BI to analyze property sales and identify key business insights.
+
+🎯 Objectives
+
+- Analyze total property sales.
+- Track sold properties.
+- Compare sales performance across categories.
+- Visualize important sales trends and insights.
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- Data Visualization
+- Data Analysis
+
+📊 Dashboard Features
+
+- KPI Cards for key metrics
+- Sales analysis using charts
+- Property sales comparison
+- Interactive visualizations
+- Easy-to-understand sales insights
+
+💡 Key Learnings
+
+- Data cleaning and transformation
+- Creating charts and visualizations
+- Designing an interactive dashboard
+- Analyzing real estate sales data
+
+🖼️ Dashboard Preview
+
+Add your Power BI dashboard screenshot here.
+
+👨‍💻 Author
+
+Sarthak Kale
+
+Aspiring Data Analyst 
+
+📍 Pune,Maharashtra,India
